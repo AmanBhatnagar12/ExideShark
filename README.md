@@ -5,7 +5,7 @@
 
   **Installation  of programs and stuff after a fresh install, completely automated.**  
 
-_Inspiration from Anthony of LTT_
+💫 _Inspiration from Anthony of LTT_
 
 **Description**
 
@@ -26,7 +26,11 @@ _Inspiration from Anthony of LTT_
 
     sudo ./exideshark.sh
     
-    
+   
+   ----------- 
+   
+   ### 😊 Help us to make this project better by buying us some coffee 
+
    
    
    -----------
