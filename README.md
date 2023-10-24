@@ -43,8 +43,9 @@ _Inspiration from Anthony of LTT_
    -----------
 ## Love💗 the project ! 
 ###   Support Us  ✨
-###  Either by filing a a pull request , becoming a contributor , giving us funds by which we'll be able to make this project much better 
-[!download][(https://github.com/AmanBhatnagar12/ExideShark/assets/93813737/159b0119-7c3f-4c41-af42-782c7615b179)](paypal.me/ExideShark)
+###  Either by filing a a pull request 
+###  Giving us funds by which we'll be able to make this project much better 
+[![download](https://github.com/AmanBhatnagar12/ExideShark/assets/93813737/159b0119-7c3f-4c41-af42-782c7615b179)](paypal.me/ExideShark)
 
     
 ----------------------
