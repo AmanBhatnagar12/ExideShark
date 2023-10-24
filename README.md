@@ -25,13 +25,12 @@ _Inspiration from Anthony of LTT_
 **Step 3:** Run the executable with **sudo** (not as root user)
 
     sudo ./exideshark.sh
-    
-    
-   
-   
-   -----------
 
-### <h2 align="center">TODO</h2> 
+   
+    
+   
+   ----------------   
+<h2 align="center">Our Goals</h2> 
 
 
 ### - [x]   Launch Server version 
@@ -42,8 +41,18 @@ _Inspiration from Anthony of LTT_
 
 
    -----------
+## Love💗 the project ! 
+###   Support Us  ✨
+###  Either by filing a a pull request , becoming a contributor , giving us funds by which we'll be able to make this project much better 
+[!download][(https://github.com/AmanBhatnagar12/ExideShark/assets/93813737/159b0119-7c3f-4c41-af42-782c7615b179)](paypal.me/ExideShark)
+
     
+----------------------
+ 
+
+
     
+    ---------------
 <div align="center">
  <strong>Made by Pranav Krishna</strong> 
 </div>
