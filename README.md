@@ -53,7 +53,7 @@ _Inspiration from Anthony of LTT_
 
 
     
-    ---------------
+   
 <div align="center">
  <strong>Made by Pranav Krishna</strong> 
 </div>
